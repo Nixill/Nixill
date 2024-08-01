@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Nixill! I'm a backend C# developer with a keen interest in data and text manipulation. I'm also a modder and Synchrony Tester for Crypt of the NecroDancer, and an early alpha tester for Solar Voltage.
+
 <!--
 **Nixill/Nixill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
